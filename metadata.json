@@ -1,0 +1,6 @@
+{
+  "name": "CyberScope SOC Platform",
+  "description": "All-in-one browser-based cybersecurity operations, network intelligence, defensive security scanner, cryptography lab, CTF arena, digital forensics, and AI cyber tutor platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
